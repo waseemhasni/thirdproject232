@@ -1,0 +1,108 @@
+#top {
+  background-color: #316DC3;
+  text-align: center;
+}
+
+.fa {
+   
+  padding: 10px;
+  margin-top: 5px;
+  font-size: 15px;
+  height: 20px;
+  width: 10px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+} 
+
+ 
+.btn {
+  font-size: 11px;
+  width: 80px;
+  background-color: whitesmoke;
+  height: 28px;
+}
+.btn:hover{
+  background-color: whitesmoke;
+}
+.inlineblock,
+li {
+  display: inline-block;
+}
+li:hover{
+   border-radius: 20px;
+  font-weight: normal;
+}
+ .nav-item {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.nav-item:hover {
+  background-color:#316DC3;
+  color: white;
+  border-radius: 18px;
+ }
+ 
+
+ .dropdown-item:hover{
+  background-color:#316DC3;
+color: white;
+}
+.carousel-inner {
+  width: 100%;
+  max-height: 480px !important;
+  z-index: -9;
+}
+
+.textcolor {
+  color: white;
+  font-size: 38px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+h5{
+  
+  color: white;
+  font-size: 16px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+
+}
+.boxshadow {
+   
+  box-shadow: 0 4px 8px 0 rgba(163, 144, 144, 0.2), 0 6px 20px 0 rgba(209, 203, 203, 0.904);
+  text-align: center;
+ 
+}
+
+h4{
+  color: #316DC3;
+  font-size: 20px;
+  font-weight: bold;
+}
+ 
+.abc{
+  color:#316DC3;
+  font-weight: bold;
+  text-align: center;
+}
+footer {
+  background-color: rgb(37, 39, 46) !important;
+  ;
+}
+ .image{
+   position: fixed;
+   bottom: 20px;
+   right: 30px;
+  }
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  z-index: 100;
+  }
+#navbar{
+  overflow: hidden;
+  background-color: silver;
+} 
